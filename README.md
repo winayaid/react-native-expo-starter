@@ -25,6 +25,26 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
+## Development build
+
+Build apk development
+
+```bash
+eas build --platform android --profile development --local
+```
+
+Run emulator
+
+```bash
+emulator -avd Medium_Phone_API_36.1
+```
+
+Install the app that has been built
+
+```bash
+adb install "/Users/winayazarkasih/Documents/Personal/Personal Portofolio/React Native Expo/react-native-expo-starter/build-1768710356767.apk"
+```
+
 ## Get a fresh project
 
 When you're ready, run:
