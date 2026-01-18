@@ -1,4 +1,4 @@
-# React Native Expo Starter 👋
+# React Native Expo Starter by Winayaid 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
